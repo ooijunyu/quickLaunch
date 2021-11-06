@@ -1,5 +1,5 @@
 # quickLaunch
-# Purpose
+# Background
 I am working in a company that has a lot of documents, Lotus Notes application, desktop and web applcations scattered everywhere which I need to access on a daily basis for my work. Hence, I wrote the script to help me to launch the app easily instead of searching them up and down in various places.
 
 # How to use
